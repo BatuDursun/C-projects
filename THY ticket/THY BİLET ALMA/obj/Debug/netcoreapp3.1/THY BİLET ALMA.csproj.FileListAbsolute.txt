@@ -1,0 +1,17 @@
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\bin\Debug\netcoreapp3.1\THY BİLET ALMA.exe
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\bin\Debug\netcoreapp3.1\THY BİLET ALMA.deps.json
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\bin\Debug\netcoreapp3.1\THY BİLET ALMA.runtimeconfig.json
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\bin\Debug\netcoreapp3.1\THY BİLET ALMA.runtimeconfig.dev.json
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\bin\Debug\netcoreapp3.1\THY BİLET ALMA.dll
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\bin\Debug\netcoreapp3.1\THY BİLET ALMA.pdb
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY_BİLET_ALMA.thy.resources
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY_BİLET_ALMA.Properties.Resources.resources
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.AssemblyInfo.cs
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.dll
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.pdb
+C:\Users\monster\source\repos\THY BİLET ALMA\THY BİLET ALMA\obj\Debug\netcoreapp3.1\THY BİLET ALMA.genruntimeconfig.cache
