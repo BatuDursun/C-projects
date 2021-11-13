@@ -30,7 +30,7 @@ namespace Hesap_Makinası_Windows
                 textBox1.Text = "5";
             }
             else
-            {
+            {kskskdkskdmsmdmd
                 textBox1.Text += "5";
             }
         }
