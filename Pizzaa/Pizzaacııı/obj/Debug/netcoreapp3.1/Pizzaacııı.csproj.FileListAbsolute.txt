@@ -1,0 +1,17 @@
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\bin\Debug\netcoreapp3.1\Pizzaacııı.exe
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\bin\Debug\netcoreapp3.1\Pizzaacııı.deps.json
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\bin\Debug\netcoreapp3.1\Pizzaacııı.runtimeconfig.json
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\bin\Debug\netcoreapp3.1\Pizzaacııı.runtimeconfig.dev.json
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\bin\Debug\netcoreapp3.1\Pizzaacııı.dll
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\bin\Debug\netcoreapp3.1\Pizzaacııı.pdb
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.Form1.resources
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.Properties.Resources.resources
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.AssemblyInfo.cs
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.dll
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.pdb
+C:\Users\monster\source\repos\Pizzaacııı\Pizzaacııı\obj\Debug\netcoreapp3.1\Pizzaacııı.genruntimeconfig.cache
