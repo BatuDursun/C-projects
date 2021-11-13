@@ -1,0 +1,16 @@
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\bin\Debug\netcoreapp3.1\Hesap Makinası Windows.exe
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\bin\Debug\netcoreapp3.1\Hesap Makinası Windows.deps.json
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\bin\Debug\netcoreapp3.1\Hesap Makinası Windows.runtimeconfig.json
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\bin\Debug\netcoreapp3.1\Hesap Makinası Windows.runtimeconfig.dev.json
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\bin\Debug\netcoreapp3.1\Hesap Makinası Windows.dll
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\bin\Debug\netcoreapp3.1\Hesap Makinası Windows.pdb
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap_Makinası_Windows.Form1.resources
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.AssemblyInfo.cs
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.dll
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.pdb
+C:\Users\monster\source\repos\Hesap Makinası Windows\Hesap Makinası Windows\obj\Debug\netcoreapp3.1\Hesap Makinası Windows.genruntimeconfig.cache

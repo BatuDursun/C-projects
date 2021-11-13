@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hesap Makinası Windows/1.0.0": {
+        "runtime": {
+          "Hesap Makinası Windows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hesap Makinası Windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
