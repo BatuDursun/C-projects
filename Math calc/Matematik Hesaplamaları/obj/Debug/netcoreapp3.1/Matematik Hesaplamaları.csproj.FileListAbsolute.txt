@@ -1,0 +1,16 @@
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\netcoreapp3.1\Matematik Hesaplamaları.exe
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\netcoreapp3.1\Matematik Hesaplamaları.deps.json
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\netcoreapp3.1\Matematik Hesaplamaları.runtimeconfig.json
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\netcoreapp3.1\Matematik Hesaplamaları.runtimeconfig.dev.json
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\netcoreapp3.1\Matematik Hesaplamaları.dll
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\bin\Debug\netcoreapp3.1\Matematik Hesaplamaları.pdb
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik_Hesaplamaları.Form1.resources
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.AssemblyInfo.cs
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.dll
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.pdb
+C:\Users\monster\source\repos\Matematik Hesaplamaları\Matematik Hesaplamaları\obj\Debug\netcoreapp3.1\Matematik Hesaplamaları.genruntimeconfig.cache
