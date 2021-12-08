@@ -1,0 +1,17 @@
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\bin\Debug\netcoreapp3.1\Zar Oyunu.exe
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\bin\Debug\netcoreapp3.1\Zar Oyunu.deps.json
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\bin\Debug\netcoreapp3.1\Zar Oyunu.runtimeconfig.json
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\bin\Debug\netcoreapp3.1\Zar Oyunu.runtimeconfig.dev.json
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\bin\Debug\netcoreapp3.1\Zar Oyunu.dll
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\bin\Debug\netcoreapp3.1\Zar Oyunu.pdb
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar_Oyunu.Form1.resources
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.csproj.GenerateResource.cache
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.AssemblyInfo.cs
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.dll
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.pdb
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar Oyunu.genruntimeconfig.cache
+C:\Users\monster\source\repos\Zar Oyunu\Zar Oyunu\obj\Debug\netcoreapp3.1\Zar_Oyunu.Properties.Resources.resources
